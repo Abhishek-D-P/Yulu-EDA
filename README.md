@@ -68,6 +68,3 @@ For a detailed walkthrough of the analysis, please refer to the Google Colab not
 
 [Yulu EDA Notebook](https://colab.research.google.com/drive/1ZDy7ioM658qemJU3qtNTajtUJElzKX-f?usp=sharing)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
